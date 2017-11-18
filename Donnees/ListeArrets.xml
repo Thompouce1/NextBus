@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java>
+  <trkpt>
+    <numero>1</numero>
+    <nom>Templier</nom>
+    <port>1240</port>
+    <latitude>43.617641</latitude>
+    <longitude>7.074498</longitude>
+  </trkpt>
+  <trkpt>
+    <numero>136</numero>
+    <nom>Luciole</nom>
+    <port>1241</port>
+    <latitude>43.620911</latitude>
+    <longitude>7.055645</longitude>
+  </trkpt>
+  <trkpt>
+    <numero>61</numero>
+    <nom>Republique</nom>
+    <port>1242</port>
+    <latitude>43.616318</latitude>
+    <longitude>7.065681</longitude>
+  </trkpt>
+  <trkpt>
+    <numero>162</numero>
+    <nom>Olivier</nom>
+    <port>1243</port>
+    <latitude>43.621304</latitude>
+    <longitude>7.059276</longitude>
+  </trkpt>
+  <trkpt>
+    <numero>241</numero>
+    <nom>Dugommier</nom>
+    <port>1244</port>
+    <latitude>43.617218</latitude>
+    <longitude>7.071656</longitude>
+  </trkpt>
+</java>

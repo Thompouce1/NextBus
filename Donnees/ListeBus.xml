@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java>
+  <trkpt>
+    <numero>1</numero>
+    <port>1234</port>
+    <vitesse>40</vitesse>
+    <direction>Croissant</direction>
+  </trkpt>
+  <trkpt>
+    <numero>2</numero>
+    <port>1235</port>
+    <vitesse>60</vitesse>
+    <direction>Decroissant</direction>
+  </trkpt>
+  <trkpt>
+    <numero>3</numero>
+    <port>1236</port>
+    <vitesse>25</vitesse>
+    <direction>Decroissant</direction>
+  </trkpt>
+</java>
